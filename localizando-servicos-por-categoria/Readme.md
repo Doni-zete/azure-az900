@@ -24,5 +24,5 @@ O Microsoft Azure é uma plataforma de computação em nuvem que oferece uma amp
 2. **Faça login**: Insira suas credenciais (email e senha) para acessar o portal.
 3. **Navegue pelo portal**: Após o login, você será direcionado ao dashboard principal, onde poderá visualizar recursos, alertas e outras informações relevantes.
 
-![Dashbord]()
+![Dashbord](https://github.com/Doni-zete/azure-az900/blob/main/localizando-servicos-por-categoria/img/img1.png)
 
