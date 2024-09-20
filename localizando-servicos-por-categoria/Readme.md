@@ -28,7 +28,7 @@ O Microsoft Azure é uma plataforma de computação em nuvem que oferece uma amp
 
 ## Localizando Serviços por Categoria
 
-### Computação
+## Computação
 
 1. **Acesse a seção de Computação**:
    - No menu de navegação à esquerda, clique em "Todos os Serviços".
@@ -40,7 +40,7 @@ O Microsoft Azure é uma plataforma de computação em nuvem que oferece uma amp
 
 ![Computação](https://github.com/Doni-zete/azure-az900/blob/main/localizando-servicos-por-categoria/img/img2.png)
 
-### Rede
+## Rede
 
 1. **Acesse a seção de Rede**:
    - No menu "Todos os Serviços", selecione "Rede" ou digite "Rede" no campo de busca.
@@ -51,7 +51,7 @@ O Microsoft Azure é uma plataforma de computação em nuvem que oferece uma amp
 
 ![Rede](https://github.com/Doni-zete/azure-az900/blob/main/localizando-servicos-por-categoria/img/img3.png)
 
-### Banco de Dados
+## Banco de Dados
 
 1. **Acesse a seção de Banco de Dados**:
    - Em "Todos os Serviços", selecione "Banco de Dados" ou digite "Banco de Dados" no campo de busca.
@@ -62,7 +62,7 @@ O Microsoft Azure é uma plataforma de computação em nuvem que oferece uma amp
 
 ![Banco de Dados](https://github.com/Doni-zete/azure-az900/blob/main/localizando-servicos-por-categoria/img/img4.png)
 
-### Armazenamento
+## Armazenamento
 
 1. **Acesse a seção de Armazenamento**:
    - No menu "Todos os Serviços", selecione "Armazenamento" ou digite "Armazenamento" no campo de busca.
@@ -73,7 +73,7 @@ O Microsoft Azure é uma plataforma de computação em nuvem que oferece uma amp
 
 ![Armazenamento](https://github.com/Doni-zete/azure-az900/blob/main/localizando-servicos-por-categoria/img/img5.png)
 
-### Segurança
+## Segurança
 
 1. **Acesse a seção de Segurança**:
    - No menu "Todos os Serviços", selecione "Segurança" ou digite "Segurança" no campo de busca.
