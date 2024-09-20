@@ -25,7 +25,7 @@ Este guia tem como objetivo ajudar você a criar e gerenciar máquinas virtuais 
 ## 2. Criar uma Máquina Virtual
 
 1. No portal do Azure, pesquise por "Máquinas Virtuais" na barra de pesquisa.
-   ![Máquinas Virtuais]([https://github.com/Doni-zete/azure-az900/blob/main/criando-maquinas-virtuais-na-azure/img/img1.png](https://github.com/Doni-zete/azure-az900/blob/main/%20criando-maquinas-virtuais-na-azure/img/img1.png)
+   ![Máquinas Virtuais](https://github.com/Doni-zete/azure-az900/blob/main/criando-maquinas-virtuais-na-azure/img/img1.png)
 
 2. Clique em "Criar" e selecione "Máquina Virtual".
 3. Preencha os detalhes necessários:
@@ -37,7 +37,7 @@ Este guia tem como objetivo ajudar você a criar e gerenciar máquinas virtuais 
 4. Configure as regras de porta de entrada, permitindo RDP (3389) e HTTP (80).
 5. Clique em "Revisar + criar" e depois em "Criar".
 
-![[Criar Máquinas Virtuais](https://github.com/Doni-zete/azure-az900/blob/main/criando-maquinas-virtuais-na-azure/img/img2.png](https://github.com/Doni-zete/azure-az900/blob/main/%20criando-maquinas-virtuais-na-azure/img/img2.png)
+![Criar Máquinas Virtuais](https://github.com/Doni-zete/azure-az900/blob/main/criando-maquinas-virtuais-na-azure/img/img2.png)
 
 
 ## Conclusão
