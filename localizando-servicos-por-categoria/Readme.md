@@ -3,16 +3,15 @@
 Este repositório apresenta um guia completo para encontrar e acessar os principais serviços do Microsoft Azure, organizados por categoria. É uma documentação útil para desenvolvedores, administradores  interessados em explorar os serviços do Azure.
 ## Índice
 
-1. [Introdução](https://github.com/Doni-zete/Guia_Azure/tree/localizacao-servicos-categoria-azure?tab=readme-ov-file#introdução)
-2. [Acessando o Portal do Azure](https://github.com/Doni-zete/Guia_Azure/tree/localizacao-servicos-categoria-azure?tab=readme-ov-file#acessando-o-portal-do-azure)
-3. [Localizando Serviços por Categoria](https://github.com/Doni-zete/Guia_Azure/tree/localizacao-servicos-categoria-azure?tab=readme-ov-file#localizando-serviços-por-categoria)
-    - [Computação](https://github.com/Doni-zete/Guia_Azure/tree/localizacao-servicos-categoria-azure?tab=readme-ov-file#computação)
-    - [Rede](https://github.com/Doni-zete/Guia_Azure/tree/localizacao-servicos-categoria-azure?tab=readme-ov-file#rede)
-    - [Banco de Dados](https://github.com/Doni-zete/Guia_Azure/tree/localizacao-servicos-categoria-azure?tab=readme-ov-file#banco-de-dados)
-    - [Armazenamento](https://github.com/Doni-zete/Guia_Azure/tree/localizacao-servicos-categoria-azure?tab=readme-ov-file#armazenamento)
-    - [Segurança](https://github.com/Doni-zete/Guia_Azure/tree/localizacao-servicos-categoria-azure?tab=readme-ov-file#segurança)
-    - [DevOps](https://github.com/Doni-zete/Guia_Azure/tree/localizacao-servicos-categoria-azure?tab=readme-ov-file#devops)
-4. [Conclusão](https://github.com/Doni-zete/Guia_Azure/tree/localizacao-servicos-categoria-azure?tab=readme-ov-file#conclusão)
+1. [Introdução](https://github.com/Doni-zete/azure-az900/tree/localizando-servicos-por-categoria?tab=readme-ov-file#introdução)
+2. [Acessando o Portal do Azure](https://github.com/Doni-zete/azure-az900/tree/localizando-servicos-por-categoria?tab=readme-ov-file#acessando-o-portal-do-azure)
+3. [Localizando Serviços por Categoria](https://github.com/Doni-zete/azure-az900/tree/localizando-servicos-por-categoria?tab=readme-ov-file#localizando-serviços-por-categoria)
+    - [Computação](https://github.com/Doni-zete/azure-az900/tree/localizando-servicos-por-categoria?tab=readme-ov-file#computação)
+    - [Rede](https://github.com/Doni-zete/azure-az900/tree/localizando-servicos-por-categoria?tab=readme-ov-file#rede)
+    - [Banco de Dados](https://github.com/Doni-zete/azure-az900/tree/localizando-servicos-por-categoria?tab=readme-ov-file#banco-de-dados)
+    - [Armazenamento](https://github.com/Doni-zete/azure-az900/tree/localizando-servicos-por-categoria?tab=readme-ov-file#armazenamento)
+    - [Segurança](https://github.com/Doni-zete/azure-az900/tree/localizando-servicos-por-categoria?tab=readme-ov-file#segurança)
+4. [Conclusão](https://github.com/Doni-zete/azure-az900/tree/localizando-servicos-por-categoria?tab=readme-ov-file#conclusão)
 
 ## Introdução
 
