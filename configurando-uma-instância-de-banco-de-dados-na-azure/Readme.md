@@ -40,4 +40,4 @@ O Microsoft Azure é uma plataforma de computação em nuvem que oferece uma amp
 
 
 ## Conclusão
-Este guia  fornece as informações necessárias para criar máquinas virtuais no Microsoft Azure de forma eficaz.
+Este guia  fornece as informações necessárias para criar banco de dados SQL Azure de forma eficaz.
