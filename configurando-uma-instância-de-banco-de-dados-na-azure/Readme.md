@@ -36,7 +36,7 @@ O Microsoft Azure é uma plataforma de computação em nuvem que oferece uma amp
    - **Localização**: Escolha a região onde o servidor será hospedado.
    - **Camada de preço**: Selecione a camada de preço que melhor se adapta às suas necessidades (por exemplo, Basic, Standard, Premium).
 
-![Criar Máquinas Virtuais](https://github.com/Doni-zete/azure-az900/blob/main/criando-maquinas-virtuais-na-azure/img/img1.png)
+![Criar Máquinas Virtuais](https://github.com/Doni-zete/azure-az900/blob/main/configurando-uma-instância-de-banco-de-dados-na-azure/img/img1.png)
 
 
 ## Conclusão
