@@ -5,15 +5,15 @@ Este repositório contém um guia  para criar máquinas virtuais (VMs) na plataf
 ## Índice
 
 - [Introdução](#introdução)
-  - 1. [Acessando o Portal do Azure](#acessando-o-portal-do-azure)
-  - 2. [Criar uma Máquina Virtual](#criar-uma-maquina-virtual)
-  - 3. [Conclusão](#conclusão)
+  -  [Acessando o Portal do Azure](#acessando-o-portal-do-azure)
+  -  [Criar uma Máquina Virtual](#criar-uma-máquina-virtual)
+  -  [Conclusão](#conclusão)
 
 ## Introdução
 
 Este guia tem como objetivo ajudar você a criar e gerenciar máquinas virtuais na Azure, uma das principais plataformas de computação em nuvem. As VMs são essenciais para hospedar aplicativos, executar cargas de trabalho e muito mais.
 
-## 1. Acessando o Portal do Azure
+##  Acessando o Portal do Azure
 
 1. **Visite o site do Azure**: [Acesse](https://portal.azure.com).
 2. **Faça login**: Insira suas credenciais (e-mail e senha) para acessar o portal.
@@ -22,7 +22,7 @@ Este guia tem como objetivo ajudar você a criar e gerenciar máquinas virtuais 
 ![Dashboard](https://github.com/Doni-zete/azure-az900/blob/main/localizando-servicos-por-categoria/img/img1.png)
 
 
-## 2. Criar uma Máquina Virtual
+## Criar uma Máquina Virtual
 
 1. No portal do Azure, pesquise por "Máquinas Virtuais" na barra de pesquisa.
    ![Máquinas Virtuais](https://github.com/Doni-zete/azure-az900/blob/main/criando-maquinas-virtuais-na-azure/img/img1.png)
