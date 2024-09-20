@@ -1,17 +1,18 @@
 # Localizando Serviços por Categoria no Microsoft Azure
 
-Este repositório apresenta um guia completo para encontrar e acessar os principais serviços do Microsoft Azure, organizados por categoria. É uma documentação útil para desenvolvedores, administradores  interessados em explorar os serviços do Azure.
+Este repositório apresenta um guia completo para encontrar e acessar os principais serviços do Microsoft Azure, organizados por categoria. É uma documentação útil para desenvolvedores e administradores interessados em explorar os serviços do Azure.
+
 ## Índice
 
-1. [Introdução](https://github.com/Doni-zete/azure-az900/tree/localizando-servicos-por-categoria?tab=readme-ov-file#introdução)
-2. [Acessando o Portal do Azure](https://github.com/Doni-zete/azure-az900/tree/localizando-servicos-por-categoria?tab=readme-ov-file#acessando-o-portal-do-azure)
-3. [Localizando Serviços por Categoria](https://github.com/Doni-zete/azure-az900/tree/localizando-servicos-por-categoria?tab=readme-ov-file#localizando-serviços-por-categoria)
-    - [Computação](https://github.com/Doni-zete/azure-az900/tree/localizando-servicos-por-categoria?tab=readme-ov-file#computação)
-    - [Rede](https://github.com/Doni-zete/azure-az900/tree/localizando-servicos-por-categoria?tab=readme-ov-file#rede)
-    - [Banco de Dados](https://github.com/Doni-zete/azure-az900/tree/localizando-servicos-por-categoria?tab=readme-ov-file#banco-de-dados)
-    - [Armazenamento](https://github.com/Doni-zete/azure-az900/tree/localizando-servicos-por-categoria?tab=readme-ov-file#armazenamento)
-    - [Segurança](https://github.com/Doni-zete/azure-az900/tree/localizando-servicos-por-categoria?tab=readme-ov-file#segurança)
-4. [Conclusão](https://github.com/Doni-zete/azure-az900/tree/localizando-servicos-por-categoria?tab=readme-ov-file#conclusão)
+1. [Introdução](https://github.com/Doni-zete/azure-az900/blob/main/localizando-servicos-por-categoria/README.md#introdução)
+2. [Acessando o Portal do Azure](https://github.com/Doni-zete/azure-az900/blob/main/localizando-servicos-por-categoria/README.md#acessando-o-portal-do-azure)
+3. [Localizando Serviços por Categoria](https://github.com/Doni-zete/azure-az900/blob/main/localizando-servicos-por-categoria/README.md#localizando-serviços-por-categoria)
+    - [Computação](https://github.com/Doni-zete/azure-az900/blob/main/localizando-servicos-por-categoria/README.md#computação)
+    - [Rede](https://github.com/Doni-zete/azure-az900/blob/main/localizando-servicos-por-categoria/README.md#rede)
+    - [Banco de Dados](https://github.com/Doni-zete/azure-az900/blob/main/localizando-servicos-por-categoria/README.md#banco-de-dados)
+    - [Armazenamento](https://github.com/Doni-zete/azure-az900/blob/main/localizando-servicos-por-categoria/README.md#armazenamento)
+    - [Segurança](https://github.com/Doni-zete/azure-az900/blob/main/localizando-servicos-por-categoria/README.md#segurança)
+4. [Conclusão](https://github.com/Doni-zete/azure-az900/blob/main/localizando-servicos-por-categoria/README.md#conclusão)
 
 ## Introdução
 
@@ -19,11 +20,11 @@ O Microsoft Azure é uma plataforma de computação em nuvem que oferece uma amp
 
 ## Acessando o Portal do Azure
 
-1. **Visite o site do Azure**: [Acesse](portal.azure.com).
-2. **Faça login**: Insira suas credenciais (email e senha) para acessar o portal.
-3. **Navegue pelo portal**: Após o login, você será direcionado ao dashboard principal, onde poderá visualizar recursos, alertas e outras informações relevantes.
+1. **Visite o site do Azure**: [Acesse](https://portal.azure.com).
+2. **Faça login**: Insira suas credenciais (e-mail e senha) para acessar o portal.
+3. **Navegue pelo portal**: Após o login, você será direcionado ao painel principal, onde poderá visualizar recursos, alertas e outras informações relevantes.
 
-![Dashbord](https://github.com/Doni-zete/azure-az900/blob/main/localizando-servicos-por-categoria/img/img1.png)
+![Dashboard](https://github.com/Doni-zete/azure-az900/blob/main/localizando-servicos-por-categoria/img/img1.png)
 
 ## Localizando Serviços por Categoria
 
@@ -59,7 +60,7 @@ O Microsoft Azure é uma plataforma de computação em nuvem que oferece uma amp
     - **Azure Cosmos DB**: Banco de dados NoSQL distribuído globalmente.
     - **Azure Database for MySQL/PostgreSQL**: Bancos de dados gerenciados para MySQL e PostgreSQL.
 
-![Rede](https://github.com/Doni-zete/azure-az900/blob/main/localizando-servicos-por-categoria/img/img4.png)
+![Banco de Dados](https://github.com/Doni-zete/azure-az900/blob/main/localizando-servicos-por-categoria/img/img4.png)
 
 ### Armazenamento
 
@@ -81,10 +82,8 @@ O Microsoft Azure é uma plataforma de computação em nuvem que oferece uma amp
     - **Azure Security Center**: Monitoramento e gerenciamento de segurança.
     - **Azure Key Vault**: Gerenciamento de chaves e segredos.
 
-![Armazenamento](https://github.com/Doni-zete/azure-az900/blob/main/localizando-servicos-por-categoria/img/img6.png)
-    
+![Segurança](https://github.com/Doni-zete/azure-az900/blob/main/localizando-servicos-por-categoria/img/img6.png)
 
 ## Conclusão
 
 Este guia oferece uma visão geral para encontrar e acessar os principais serviços do Microsoft Azure, organizados por categoria. Explore as categorias para gerenciar seus recursos e otimizar a infraestrutura da sua organização. Para mais informações, consulte a documentação oficial do Azure!
-
