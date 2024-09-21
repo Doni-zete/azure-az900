@@ -13,7 +13,7 @@ Este repositório apresenta como construindo arquiteturas no Microsoft Azure.
 
 ## Introdução
 
-O Microsoft Azure é uma plataforma de computação em nuvem que oferece uma ampla gama de serviços para atender às necessidades de diferentes tipos de aplicativos e cargas de trabalho. Este guia ajudará você a navegar pelo portal do Azure e localizar os serviços essenciais organizados por categoria.
+O Microsoft Azure é uma plataforma de computação em nuvem que oferece uma ampla gama de serviços para atender às necessidades de diferentes tipos de aplicativos e cargas de trabalho. Este guia ajudará você a navegar pelo portal do Azure.
 
 ## Acessando o Portal do Azure
 
