@@ -8,7 +8,7 @@ Este repositório apresenta como Configurar Recursos e Dimensionamentos em Máqu
 
 - [Introdução](#introdução)
 - [Acessando o Portal do Azure](#acessando-o-portal-do-azure)
-- [Criar um Banco de Dados SQL](#criar-um-banco-de-dados-sQL)
+- [Configurar a Máquina Virtual](#configurar-a-máquina-virtual)
 - [Conclusão](#conclusão)
 
 ## Introdução
