@@ -1,4 +1,4 @@
-# Criar uma conta de armazenamento
+# Criar uma conta de armazenamentos
 
 
 Este repositório apresenta como Criar uma conta de armazenamento na Azure.
