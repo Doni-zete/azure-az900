@@ -10,7 +10,7 @@ Este repositório apresenta como Gerenciar Politicas em Acessos Azure.
 
 ## Introdução
 
-Saiba como os Microsoft serviços de nuvem protegem seus dados e como você pode gerenciar a segurança e a conformidade de dados de nuvem para sua organização ![Acesso](https://servicetrust.microsoft.com/).
+Saiba como os Microsoft serviços de nuvem protegem seus dados e como você pode gerenciar a segurança e a conformidade de dados de nuvem para sua organização [Acesso](https://servicetrust.microsoft.com/).
 
 
 ![Portal de Confiança do Serviço](https://github.com/Doni-zete/azure-az900/blob/main/gerenciando-politicas-em-acessos-azure/img/img1.png)
